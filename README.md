@@ -1,6 +1,6 @@
 # internship_project
 
-Figma UI that needs to be implemented using SwiftUI along with the functionalities mentioned .
+Given Figma UI that was implemented using SwiftUI along with the functionalities that were mentioned.
 
 The main elements of the UI are the filter, the horizontal scrollable product cards, and the vertical scrollable unique products. (Fig01)
 Each product is loaded in from a random JSON file, which is parsed into product, state, and city array to implement the Filter function properly. (Fig02)
